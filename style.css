@@ -1,0 +1,113 @@
+h2{
+    text-align: center;
+    font-size: 50%;
+    color: aliceblue;
+}
+#a{
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+}
+#b{
+    text-align: center;
+    font-size: 30px;
+    color: aliceblue;
+}
+body{
+    
+        background-image: url("https://media.macphun.com/img/uploads/customer/blog/1548348087/15483500765c49f27c4ad742.57005004.jpg?q=85&w=1680");
+        background-repeat: no-repeat;
+
+}
+#sc{
+font-size: 15px;
+color: white;
+padding: 5px;
+text-decoration: none;
+
+}
+#scc{
+    font-size: 15px;
+    color: white;
+    padding: 5px;
+    text-decoration: none
+}
+#mc{
+    font-size: 15px;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    }
+#vo{
+    font-size: 15px;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+#gc{
+    font-size: 15px;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+}
+.section-head{
+    text-align: center;
+    font-size: 30px;
+}
+h3{
+   text-align: center;
+   font-size: 20px;
+   color:aliceblue; 
+}
+.lead{
+    text-align: center;
+    color: aliceblue;
+    font-size: 15px;
+}
+#kcc{
+    font-size: 15px;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+  
+}
+.section-head{
+    font-size: 30px;
+}
+
+.text-light{
+    text-align: center;
+}
+.text-light{
+    font-size: 20px;
+}
+#para{
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+}
+#f{
+    text-align: center;
+    color: aliceblue;
+    
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#o{
+    color: aliceblue;
+    text-align: center;
+}
+
+#op{
+    text-align: center;
+    color: aliceblue;
+    font-size: 25px;
+}
+#hb{
+    text-align:center;
+    font-size: 20px;
+    color: aliceblue;
+}
